@@ -1,3 +1,6 @@
+DOCUMENTATION SAME AS ASSIGNMENT4, CHANGES ONLY IN DRIVER METHODS
+
+
 Tries:
 Implementaion: Each node contains an arraylist, each slot corresponding to a character as a node.			   
 
