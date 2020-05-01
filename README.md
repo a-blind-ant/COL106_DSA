@@ -5,7 +5,7 @@ Problem Statements:
 
 Assignment1: http://www.cse.iitd.ac.in/~subodh/courses/COL106/assignment1.html
 
-Assignment2: Please find the pdf in the respective directory
+Assignment2: --
 
 Assignment3: http://www.cse.iitd.ac.in/~csz188011/col106-a3.html
 
